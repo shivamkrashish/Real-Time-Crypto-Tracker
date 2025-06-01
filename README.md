@@ -1,6 +1,5 @@
 # 📈 Real-Time Crypto Tracker
 
-
 A real-time cryptocurrency price tracking application built using **React**, **Redux Toolkit**, and **CoinGecko API**.
 
 It displays live crypto prices, symbols, percentage changes, and market data in a responsive and neatly styled table. Positive price changes are shown in green and negative in red for better visualization.
