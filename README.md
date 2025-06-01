@@ -6,7 +6,6 @@ It displays live crypto prices, symbols, percentage changes, and market data in 
 
 ---
 
-
 ## 🚀 Features
 
 - 🔄 Real-time crypto data via CoinGecko API
